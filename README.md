@@ -1,4 +1,9 @@
-### Hi there 👋
+<h3>Welcome to my home page!</h3>
+
+Hi I'm Thomas Song, a CS student at EFREI from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm currently looking for a 2 year apprenticeship near Ile-de-France as a Full Stack or Backend developper. 
+<br>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/totopoiuytreza" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/song-thomas" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **totopoiuytreza/totopoiuytreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
