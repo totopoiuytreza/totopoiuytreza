@@ -6,8 +6,8 @@ Hi I'm Thomas Song, a CS student at EFREI from <img src="https://cdn-icons-png.f
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vuejs-41b883?style=for-the-badge&logo=Vue.js&logoColor=white" />
-  <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-2c2c2c?style=for-the-badge&logo=Express.js&logoColor=white" />
-  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-2c2c2c?style=for-the-badge&logo=Sequelize&logoColor=white" />
+  <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-2e2e2e?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-2379be?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-43853d?style=for-the-badge&logo=Postgres&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-43853d?style=for-the-badge&logo=Firebase&logoColor=white" />
