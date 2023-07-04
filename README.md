@@ -24,6 +24,8 @@ Hi I'm Thomas Song, a CS student at EFREI from <img src="https://cdn-icons-png.f
 </p>
 <h3>My Github statistics</h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=totopoiuytreza&show_icons=true&theme=gotham" alt="totopoiuytreza" />
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=totopoiuytreza&theme=gotham" alt="totopoiuytreza" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totopoiuytreza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut&langs_count=8" alt="totopoiuytreza" />
 <br>
   
 <h3>Where to find me</h3>
