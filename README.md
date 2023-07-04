@@ -12,7 +12,6 @@ Hi I'm Thomas Song, a CS student at EFREI from <img src="https://cdn-icons-png.f
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00618a?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-f5820d?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e4a126?style=for-the-badge&logo=JavaScript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white" />
   <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-e63768?style=for-the-badge&logo=IntelliJ idea&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
@@ -25,7 +24,7 @@ Hi I'm Thomas Song, a CS student at EFREI from <img src="https://cdn-icons-png.f
 <h3>My Github statistics</h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=totopoiuytreza&show_icons=true&theme=gotham" alt="totopoiuytreza" />
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=totopoiuytreza&theme=gotham" alt="totopoiuytreza" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totopoiuytreza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=8" alt="totopoiuytreza" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totopoiuytreza&theme=gotham&layout=donut" alt="totopoiuytreza" />
 <br>
   
 <h3>Where to find me</h3>
