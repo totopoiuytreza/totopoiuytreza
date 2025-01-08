@@ -1,6 +1,6 @@
 <h3>Welcome to my home page!</h3>
 
-Hi I'm Thomas Song, a CS student at EFREI from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. I'm currently looking for a 2 year apprenticeship near Ile-de-France as a Full Stack or Backend developper. 
+Hi I'm Thomas Song, a CS student at EFREI from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>. 
 <br>
 <h3>Language and Tools</h3>
 <p>
